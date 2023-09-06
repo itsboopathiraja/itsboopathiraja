@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="167" src="https://www.hdcarwallpapers.com/thumbs/2023/mercedes_amg_gt_63_4matic__2023_5k-t2.jpg"  />
+  <img height="167" src="https://diguardia.org/wp-content/uploads/2023/04/cropped-How-to-future-proof-ML-ops_Banner-1800x650_banner_desktop-1536x512.jpg"  />
 </div>
 
 ###
