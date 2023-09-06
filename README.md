@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="167" src="https://diguardia.org/wp-content/uploads/2023/04/cropped-How-to-future-proof-ML-ops_Banner-1800x650_banner_desktop-1536x512.jpg"  />
+  <img height="167" src="https://media.licdn.com/dms/image/D4D16AQGHZg8N6La-XA/profile-displaybackgroundimage-shrink_350_1400/0/1691159925383?e=1699488000&v=beta&t=xjBG314rDytn2XnJ9bgWNT7WqJrlHlfWFPWjj2nD9KM"  />
 </div>
 
 ###
